@@ -1,5 +1,4 @@
 int main()
 {
+    int a;
 }
-fdsfds
-    git sta
